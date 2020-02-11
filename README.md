@@ -1,6 +1,6 @@
 # Siwapp
 
-[![Build Status](https://travis-ci.org/siwapp/siwapp.svg?branch=master)](https://travis-ci.org/siwapp/siwapp)
+[![Build Status](https://travis-ci.org/siwapp/siwapp.svg?branch=master)](https://travis-ci.com/deliteknisyen/lazercrm)
 
 Online Invoice Management. See [online demo](https://siwapp-demo.herokuapp.com) (user: demo@example.com, password: secret).
 
