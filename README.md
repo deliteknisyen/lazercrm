@@ -1,4 +1,4 @@
-# Siwapp
+# Lazer CRM
 
 [![Build Status](https://travis-ci.org/siwapp/siwapp.svg?branch=master)](https://travis-ci.com/deliteknisyen/lazercrm)
 
