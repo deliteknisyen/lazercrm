@@ -1,4 +1,4 @@
-# Siwapp API
+# LazerCRM API
 
 - [Authentication](#authentication)
 - [Recurring Invoices](#recurring-invoices)
